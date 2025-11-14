@@ -10,6 +10,11 @@
 - 💬 Ask me about **AdonisJS**
 
 - 📫 How to reach me **joaovictorjussani@gmail.com**
+  
+![](https://nirzak-streak-stats.vercel.app/?user=JoaoVictorJussani&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorJussani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
